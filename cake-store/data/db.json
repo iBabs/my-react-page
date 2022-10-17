@@ -1,0 +1,24 @@
+{
+    "cakes": [
+        {
+            "id": 1,
+            "name": "Vanilla Cakes",
+            "decription": "a vanilla flavoured cake with icing"
+        },
+        {
+            "id": 2,
+            "name": "Banana Cakes",
+            "decription": "a banana flavoured cake with icing"
+        },
+        {
+            "id": 3,
+            "name": "Strawberry Cakes",
+            "decription": "a strawberry flavoured cake with icing"
+        },
+        {
+            "id": 4,
+            "name": "Mango Cakes",
+            "decription": "a mango flavoured cake with icing"
+        }
+    ]
+}
