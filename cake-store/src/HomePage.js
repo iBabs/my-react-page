@@ -6,12 +6,12 @@ const HomePage = () => {
   const date = new Date()
 
   const [week, setWeek] = useState(`${date.getFullYear()} / ${date.getMonth() +1} / ${date.getDate()}`)
-  
-
   const clickMessage =()=>{
     setWeek(`${date.toDateString()}`)
   }
-
+  // const [ cake, setCake] = useState([
+  //   {img: "atl", cakeName: "Kulikuli", cakeDes:" akulikuli alata rodo", id:1}
+  // ])
    return (  
     <>
       <div className="Home">
@@ -53,6 +53,9 @@ const HomePage = () => {
           Click Me
         </button>
         </div>
+       {/* <div>
+        <Main cake={cake}/>
+       </div> */}
     </>
     );
 }
