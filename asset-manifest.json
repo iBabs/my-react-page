@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/http//:iBabs.github.io/my-react-page/static/css/main.4c5b2cf5.css",
+    "main.js": "/http//:iBabs.github.io/my-react-page/static/js/main.bd6e21f5.js",
+    "static/js/787.d2c72e77.chunk.js": "/http//:iBabs.github.io/my-react-page/static/js/787.d2c72e77.chunk.js",
+    "static/media/baked-goods-ge5b1bc9ec_1920.jpg": "/http//:iBabs.github.io/my-react-page/static/media/baked-goods-ge5b1bc9ec_1920.b36e53bb3d217a9eb738.jpg",
+    "static/media/muffins-gbe26ddbe8_1920.jpg": "/http//:iBabs.github.io/my-react-page/static/media/muffins-gbe26ddbe8_1920.765d856199031f9de432.jpg",
+    "static/media/cakes-gc528f4c16_1920.jpg": "/http//:iBabs.github.io/my-react-page/static/media/cakes-gc528f4c16_1920.33a399ebbb3489746f3b.jpg",
+    "static/media/eclair-g4aed3718d_1920.jpg": "/http//:iBabs.github.io/my-react-page/static/media/eclair-g4aed3718d_1920.4ee0fc5644561a70de1b.jpg",
+    "static/media/happy-birthday-gf6377cd0c_1920.jpg": "/http//:iBabs.github.io/my-react-page/static/media/happy-birthday-gf6377cd0c_1920.d417d210e1c2b502f673.jpg",
+    "static/media/cupcakes-g5d8fbb211_1920.jpg": "/http//:iBabs.github.io/my-react-page/static/media/cupcakes-g5d8fbb211_1920.c7577cbf97cff0f0fbc6.jpg",
+    "index.html": "/http//:iBabs.github.io/my-react-page/index.html",
+    "main.4c5b2cf5.css.map": "/http//:iBabs.github.io/my-react-page/static/css/main.4c5b2cf5.css.map",
+    "main.bd6e21f5.js.map": "/http//:iBabs.github.io/my-react-page/static/js/main.bd6e21f5.js.map",
+    "787.d2c72e77.chunk.js.map": "/http//:iBabs.github.io/my-react-page/static/js/787.d2c72e77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c5b2cf5.css",
+    "static/js/main.bd6e21f5.js"
+  ]
+}
